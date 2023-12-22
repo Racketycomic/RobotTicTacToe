@@ -38,4 +38,4 @@ The project explores functionalities within the OpenCV library, demonstrating im
 
 Watch the gameplay [here](https://www.youtube.com/watch?v=_VxRY-Qkwc4).
 
-**Note:** Detailed information can be found in the [full project report](link-to-full-report).
+**Note:** Detailed information can be found in the [full project report](https://github.com/Racketycomic/RobotTicTacToe/blob/master/Tic%20Tac%20Toe.pdf).
